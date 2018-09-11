@@ -1,12 +1,12 @@
 # Site settings
-title: Your Blog
-SEOTitle: 你的博客 | Your Blog
+title: William
+SEOTitle: William 博客 | William Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
+email: glosttty@gmail.com
 description: ""
-keyword: ""
-url: "http://huangxuan.me"              # your host, for absolute URL
-baseurl: "/huxblog-boilerplate"         # for example, '/blog' if your blog hosted on 'host/blog'
+keyword: "William,智威"
+url: "http://william.github.io"              # your host, for absolute URL
+baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 

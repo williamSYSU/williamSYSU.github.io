@@ -1,5 +1,5 @@
 # Site settings
-title: William
+title: William Blog
 SEOTitle: 智威的博客 | William Blog
 header-img: img/home-bg.jpg
 email: glosttty@gmail.com
@@ -70,7 +70,7 @@ ga_domain: zhiweil.ml
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "做NLP，看论文，写代码，玩摄影，撸铁。世界如此之大，等着我去发现。"
+sidebar-about-description: "做NLP，看论文，写代码，玩摄影。世界如此之大，等着我去发现。"
 sidebar-avatar: /img/avatar-william.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 

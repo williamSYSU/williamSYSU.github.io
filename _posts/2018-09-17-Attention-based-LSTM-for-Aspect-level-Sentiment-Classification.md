@@ -1,6 +1,6 @@
 ---
 layout:		post
-title:		"Note - Sentiment embeddings with applications to sentiment analysis"
+title:		"Note - Attention-based LSTM for Aspect-level Sentiment Classification"
 subtitle:	"如何把情感信息编码到词向量中，并提升情感分析的效果？"
 data:		2018-09-17
 author:		"William"
@@ -10,6 +10,8 @@ tags:
 	- Paper Notes
 	- Sentiment Analysis
 ---
+
+
 
 [TOC]
 
@@ -65,15 +67,7 @@ tags:
 
 > 加入了Attention机制的LSTM
 
-![image1](../img/in-post/ATAE-LSTM/image1.png)
-
-### Attention-based LSTM with Aspect Embedding (ATAE-LSTM)
-
-在AT-LSTM的基础上，输入原生LSTM之前，将输入词的词向量与侧面词的词向量拼接后再输入LSTM得到隐层输出，其它部分与AT-LSTM一致。
-
-> ATAE-LSTM
-
-![image2](../img/in-post/ATAE-LSTM/image2.png)
+![img](file:///C:/Users/WILLIA~1/AppData/Local/Temp/enhtmlclip/Image.png)
 
 ## 可借鉴的地方
 

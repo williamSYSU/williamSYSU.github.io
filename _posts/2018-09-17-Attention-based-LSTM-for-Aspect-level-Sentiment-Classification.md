@@ -96,7 +96,7 @@ tags:
 
 
 
-## Something an learn
+## Something can learn
 
 1. 如何在模型中结合侧面词的信息？
 

@@ -15,15 +15,15 @@ tags:
 
 ## Catalog
 
-1. [Before Reading](#Before-Reading)
-2. [Paper core](#Paper-core)
-3. [Model](#Model)
+1. [Before Reading](#before-reading)
+2. [Paper core](#paper-core)
+3. [Model](#model)
    1. [Context Model](#1.-上下文模型)
    2. [Sentiment Model](#2.-情感模型)
    3. [Hybrid Model](#3.-混合上下文和情感的模型)
-4. [Key points of training](#Key-points-of-training)
-5. [Something can learn](#Something-can-learn)
-6. [Reference](#Reference)
+4. [Key points of training](#key-points-of-training)
+5. [Something can learn](#something-can-learn)
+6. [Reference](#reference)
 
 
 

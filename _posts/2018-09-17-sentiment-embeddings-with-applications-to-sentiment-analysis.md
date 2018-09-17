@@ -18,9 +18,9 @@ tags:
 1. [Before Reading](#before-reading)
 2. [Paper core](#paper-core)
 3. [Model](#model)
-   1. [Context Model](#1.-上下文模型)
-   2. [Sentiment Model](#2.-情感模型)
-   3. [Hybrid Model](#3.-混合上下文和情感的模型)
+   1. [Context Model](#上下文模型)
+   2. [Sentiment Model](#情感模型)
+   3. [Hybrid Model](#混合上下文和情感的模型)
 4. [Key points of training](#key-points-of-training)
 5. [Something can learn](#something-can-learn)
 6. [Reference](#reference)
@@ -90,7 +90,7 @@ tags:
 
 
 
-### 1. 上下文模型
+### 上下文模型
 
 流程：
 
@@ -100,7 +100,7 @@ tags:
 
 
 
-### 2. 情感模型
+### 情感模型
 
 流程：
 
@@ -111,13 +111,13 @@ tags:
 
 
 
-### 3. 混合上下文和情感的模型
+### 混合上下文和情感的模型
 
 为了使词向量同时具有上下文信息和情感信息，将上述的两个模型合并训练。
 
 > **合并方式**：将两个模型的$loss$加权求和，然后优化总的$loss$。
 
-在优化总的$loss​$时，就把上下文信息和情感信息编码到词向量中。在上下文模型和情感模型中的第二个$linear​$层，它们的权值*共享*，其上一个$linear​$层的输出维数保持一致。
+在优化总的$loss$时，就把上下文信息和情感信息编码到词向量中。在上下文模型和情感模型中的第二个$linear$层，它们的权值*共享*，其上一个$linear$层的输出维数保持一致。
 
 > **加入正则化**：在结合上下文和情感两个词向量训练模型时，需要加入一个正则项，这个正则项规定了，在情感词库中，具有相同情感倾向的词，他们的词向量空间相距较近，不同的则相距较远，这就保证了在训练词向量时，能够以这个标准来进行。
 

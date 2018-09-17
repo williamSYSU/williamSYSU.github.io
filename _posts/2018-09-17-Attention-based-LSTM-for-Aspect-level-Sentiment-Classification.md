@@ -82,7 +82,7 @@ tags:
 
 > 加入了Attention机制的LSTM
 
-![image1](/img/in-post/ATAE-LSTM/image1.jpg)
+![image1](img/in-post/ATAE-LSTM/image1.jpg)
 
 
 
@@ -92,7 +92,7 @@ tags:
 
 > ATAE-LSTM
 
-![image2](/img/in-post/ATAE-LSTM/image1.jpg)
+![image2](img/in-post/ATAE-LSTM/image1.jpg)
 
 
 

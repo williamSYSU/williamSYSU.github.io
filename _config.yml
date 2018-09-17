@@ -1,9 +1,9 @@
 # Site settings
 title: William
-SEOTitle: William 博客 | William Blog
+SEOTitle: 智威的博客 | William Blog
 header-img: img/home-bg.jpg
 email: glosttty@gmail.com
-description: ""
+description:"To be who I want to be."
 keyword: "William,智威"
 url: "https://williamSYSU.github.io"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
@@ -12,11 +12,11 @@ baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
+weibo_username:     weiwei夏风吹
+zhihu_username:     William
+github_username:    williamSYSU
 #twitter_username:  huxpro
-facebook_username:  huxpro
+facebook_username:  William Lam
 
 
 
@@ -47,29 +47,31 @@ kramdown:
 
 
 # Disqus settings
-#disqus_username: _your_disqus_short_name_
+disqus_username: disqus_Daapu0p5pD
+layout: default
+comments: true
 
 # Duoshuo settings
-duoshuo_username: huxblog
+# duoshuo_username: william
 # Share component is depend on Comment so we can NOT use share only.
-duoshuo_share: true                     # set to false if you want to use Comment without Sharing
+# duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
 
 
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
+ba_track_id: 347e45a37034c345459102b3ce75ac19
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_track_id: 'UA-125862687-1'            # Format: UA-xxxxxx-xx
+ga_domain: zhiweil.ml
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，做做设计，看看产品。世界那么大，多玩玩看看。"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "做NLP，看论文，写代码，玩摄影，撸铁。世界如此之大，等着我去发现。"
+sidebar-avatar: /img/avatar-william.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -82,19 +84,7 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "Hux Blog",
-        href: "http://huangxuan.me"
-    },{
-        title: "Foo",
-        href: "#"
-    },{
-        title: "Bar",
-        href: "#"
-    },{
-        title: "Example Friends",
-        href: "#"
-    },{
-        title: "It helps SEO",
-        href: "#"
+        title: "William Blog",
+        href: "http://zhiweil.ml"
     }
 ]

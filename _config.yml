@@ -48,7 +48,7 @@ kramdown:
 
 # Disqus settings
 disqus_username: disqus_Daapu0p5pD
-
+layout: default
 comments: true
 
 # Duoshuo settings

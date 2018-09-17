@@ -1,23 +1,30 @@
 ---
-layout:		post
-title:		"Note - Attention-based LSTM for Aspect-level Sentiment Classification"
-subtitle:	"如何把情感信息编码到词向量中，并提升情感分析的效果？"
-data:		2018-09-17
-author:		"William"
-header-img:	"img/post-bg-sentiment-analysis.jpg"
-tags:	
-	- NLP
-	- Paper Notes
-	- Sentiment Analysis
+layout: 	post
+title: 		"Note - Attention-based LSTM for Aspect-level Sentiment Classification"
+subtitle: 	"如何把侧面词(Aspect)与Attention机制结合，拓展基础LSTM？"
+data: 		2018-09-17
+author: 	"William"
+header-img: 	"img/post-bg-sentiment-analysis.jpg"
+tags:
+ 	- NLP
+ 	- Paper Notes
+ 	- Sentiment Analysis
 ---
 
 
 
-[TOC]
+## Catalog
 
+1. [Before Reading](#Before Reading)
+2. [Paper Core](#Paper Core)
+3. [Model](#Model)
+   1. [LSTM with Aspect Embedding (AE-LSTM)](#LSTM with Aspect Embedding (AE-LSTM))
+   2. [Attention-based LSTM (AT-LSTM)](#Attention-based LSTM (AT-LSTM))
+   3. [Attention-based LSTM with Aspect Embedding (ATAE-LSTM)](#Attention-based LSTM with Aspect Embedding (ATAE-LSTM))
+4. [Something can learn](#Something can learn)
+5. [Reference](#Reference)
 
-
-## 阅读前问题
+## Before Reading
 
 1. Attention机制如何加入LSTM？
 
@@ -42,17 +49,25 @@ tags:
 
 4. 在Attention机制中，隐层输出和侧面词所做的全连接各自的权重参数是否分别共享？如侧面词都共享一个参数，而隐层输出都共享另外一个参数。
 
-## 论文中心思想
+
+
+## Paper Core
 
 论文提出把侧面词用词向量来表示，在基础LSTM上结合了侧面词的词向量信息，以及加入了Attention机制，使得模型能够把侧面词以及输入词中的关键词（Attention权重较高的词）的信息编码到最后的句子表示中。
 
-## 论文模型
+
+
+## Model
 
 论文对LSTM拓展了三个模型。
+
+
 
 ### LSTM with Aspect Embedding (AE-LSTM)
 
 在LSTM中结合了侧面词，并同时将侧面词的embedding加进去。
+
+
 
 ### Attention-based LSTM (AT-LSTM)
 
@@ -69,6 +84,8 @@ tags:
 
 ![image1](/img/in-post/ATAE-LSTM/image1.jpg)
 
+
+
 ### Attention-based LSTM with Aspect Embedding (ATAE-LSTM)
 
 在AT-LSTM的基础上，输入原生LSTM之前，将输入词的词向量与侧面词的词向量拼接后再输入LSTM得到隐层输出，其它部分与AT-LSTM一致。
@@ -77,7 +94,9 @@ tags:
 
 ![image2](/img/in-post/ATAE-LSTM/image1.jpg)
 
-## 可借鉴的地方
+
+
+## Something an learn
 
 1. 如何在模型中结合侧面词的信息？
 

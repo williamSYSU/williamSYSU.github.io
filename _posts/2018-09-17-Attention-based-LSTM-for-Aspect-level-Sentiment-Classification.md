@@ -67,7 +67,15 @@ tags:
 
 > 加入了Attention机制的LSTM
 
-![img](file:///C:/Users/WILLIA~1/AppData/Local/Temp/enhtmlclip/Image.png)
+![image1](/img/in-post/ATAE-LSTM/image1.jpg)
+
+### Attention-based LSTM with Aspect Embedding (ATAE-LSTM)
+
+在AT-LSTM的基础上，输入原生LSTM之前，将输入词的词向量与侧面词的词向量拼接后再输入LSTM得到隐层输出，其它部分与AT-LSTM一致。
+
+> ATAE-LSTM
+
+![image2](/img/in-post/ATAE-LSTM/image1.jpg)
 
 ## 可借鉴的地方
 

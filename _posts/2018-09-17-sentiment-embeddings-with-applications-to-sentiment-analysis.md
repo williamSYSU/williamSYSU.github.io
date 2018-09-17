@@ -1,14 +1,14 @@
 ---
-layout: 	post
-title: 		"Note - Sentiment embeddings with applications to sentiment analysis"
-subtitle: 	"如何把情感信息编码到词向量中，并提升情感分析的效果？"
-data: 		2018-09-17
-author: 	"William"
-header-img: 	"img/post-bg-sentiment-analysis.jpg"
+layout:         post
+title:          "Note - Sentiment embeddings with applications to sentiment analysis"
+subtitle:       "如何把情感信息编码到词向量中，并提升情感分析的效果？"
+data:           2018-09-17
+author:         "William"
+header-img:     "img/post-bg-sentiment-analysis.jpg"
 tags:
- 	- NLP
- 	- Paper Notes
- 	- Sentiment Analysis
+    - NLP
+    - Paper Notes
+    - Sentiment Analysis
 ---
 
 

@@ -10,6 +10,14 @@ tags:
     - How to
 ---
 
+## Catalog
+
+1. [安装zsh包](#1-安装zsh包)
+2. [切换默认shell为zsh](#2-切换默认shell为zsh)
+3. [重启服务器使配置生效](#3-重启服务器使配置生效)
+4. [安装oh-my-zsh](#4-安装oh-my-zsh)
+5. [查看oh-my-zsh的主题列表](#5-查看oh-my-zsh的主题列表)
+
 
 
 # CentOS 安装zsh

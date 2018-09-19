@@ -55,9 +55,9 @@ kramdown:
   syntax_highlighter: rouge
 
   syntax_highlighter_opts:
-#    css_class: 'highlight'
+    css_class: 'highlight'
     span:
-      line_numbers: false
+      line_numbers: true
     block:
       line_numbers: true
       start_line: 1

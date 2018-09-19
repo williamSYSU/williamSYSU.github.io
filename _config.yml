@@ -24,7 +24,7 @@ facebook_username:  William Lam
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 highlighter: rouge
 
-#lineos: true
+lineos: true
 #
 #highlight:
 #  linenos: true

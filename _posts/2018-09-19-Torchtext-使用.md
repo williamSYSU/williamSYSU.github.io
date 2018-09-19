@@ -84,7 +84,7 @@ Field类
 
 ### 示例
 
-``` {.python}
+``` python
 def tokenizer(text):
     return [tok.text for tok in spacy_en.tokenizer(text)]
 
@@ -126,7 +126,7 @@ TabularDataset支持CSV, TSV, or JSON格式的文件（仅此三种）。
 
 -   构建Dataset
 
-``` {.python}
+``` python
 train, val, test = data.TabularDataset.splits(
     path='./data/', 
     train='train.tsv',
@@ -142,7 +142,7 @@ train, val, test = data.TabularDataset.splits(
 
 当只需要训练集时，不用调用*splits ()*方法。
 
-``` {.python}
+``` python
 train = data.TabularDataset(
     path='data/train.tsv',
     format='tsv',
@@ -155,7 +155,7 @@ train = data.TabularDataset(
 
 -   构建词典。在使用数据前，必须建立对应Field的词典。
 
-``` {.python}
+``` python
 # 使用vectors参数可以加载预训练的词向量。
 # 默认的预训练数据在.vector_cache/文件夹中，可以自己事先下载后对应数据，解压后放到该# 文件夹中，vectors参数中把文件后缀名去掉。
 
@@ -182,7 +182,7 @@ Iterator是torchtext到模型的输出，它提供了我们对数据的一般处
 
 ### 示例
 
-``` {.python}
+``` python
 train_iter, val_iter, test_iter = data.Iterator.splits(
     (train, val, test), 
     sort_key=lambda x: len(x.Text),
@@ -193,7 +193,7 @@ train_iter, val_iter, test_iter = data.Iterator.splits(
 
 当只需要训练数据时，这里也不需要调用*splits ()*方法。
 
-``` {.python}
+``` python
 train_iter = data.Iterator(
     train,
     sort_key=lambda x: len(x.Text),

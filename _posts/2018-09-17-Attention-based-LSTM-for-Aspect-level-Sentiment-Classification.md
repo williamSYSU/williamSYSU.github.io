@@ -13,16 +13,7 @@ tags:
 
 ## Catalog
 
-1. [Before Reading](#before-reading)
-2. [Paper core](#paper-core)
-3. [Model](#model)
-   1. [LSTM with Aspect Embedding (AE-LSTM)](#lstm-with-aspect-embedding-ae-lstm)
-   2. [Attention-based LSTM (AT-LSTM)](#attention-based-lstm-at-lstm)
-   3. [Attention-based LSTM with Aspect Embedding (ATAE-LSTM)](#attention-based-lstm-with-aspect-embedding-atae-lstm)
-4. [Something can learn](#something-can-learn)
-5. [Reference](#reference)
-
-
+{:toc}
 
 ## Before Reading
 

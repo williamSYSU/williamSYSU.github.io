@@ -13,17 +13,7 @@ tags:
 
 ## Catalog
 
-1. [Before Reading](#before-reading)
-2. [Paper core](#paper-core)
-3. [Model](#model)
-   1. [Context Model](#上下文模型)
-   2. [Sentiment Model](#情感模型)
-   3. [Hybrid Model](#混合上下文和情感的模型)
-4. [Key points of training](#key-points-of-training)
-5. [Something can learn](#something-can-learn)
-6. [Reference](#reference)
-
-
+{:toc}
 
 ## Before Reading
 

@@ -12,21 +12,9 @@ tags:
 
 ## Catalog
 
-1. [安装zsh包](#1-安装zsh包)
-2. [切换默认shell为zsh](#2-切换默认shell为zsh)
-3. [重启服务器使配置生效](#3-重启服务器使配置生效)
-4. [安装oh-my-zsh](#4-安装oh-my-zsh)
-5. [查看oh-my-zsh的主题列表](#5-查看oh-my-zsh的主题列表)
-
-
-
-# CentOS 安装zsh
-
-
+{:toc}
 
 在Linux中默认的bash没有颜色区分，界面比较朴素，可以更换为zsh使得shell界面更美观。
-
-
 
 ## 1. 安装zsh包
 

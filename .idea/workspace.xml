@@ -1,0 +1,1507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="16f3515c-4c14-4975-815a-adb75fd9d341" name="Default Changelist" comment="" />
+    <ignored path="./" />
+    <ignored path=".idea/deployment.xml" />
+    <ignored path=".idea/misc.xml" />
+    <ignored path=".idea/modules.xml" />
+    <ignored path=".idea/vcs.xml" />
+    <ignored path=".idea/william_blog.iml" />
+    <ignored path=".tmp.drivedownload/1007722.driveupload" />
+    <ignored path=".tmp.drivedownload/1020108.driveupload" />
+    <ignored path=".tmp.drivedownload/1042042.driveupload" />
+    <ignored path=".tmp.drivedownload/1080251.driveupload" />
+    <ignored path=".tmp.drivedownload/1083496.driveupload" />
+    <ignored path=".tmp.drivedownload/1103809.driveupload" />
+    <ignored path=".tmp.drivedownload/1124202.driveupload" />
+    <ignored path=".tmp.drivedownload/1125681.driveupload" />
+    <ignored path=".tmp.drivedownload/1128748.driveupload" />
+    <ignored path=".tmp.drivedownload/1129896.driveupload" />
+    <ignored path=".tmp.drivedownload/1138679.driveupload" />
+    <ignored path=".tmp.drivedownload/1138857.driveupload" />
+    <ignored path=".tmp.drivedownload/1158533.driveupload" />
+    <ignored path=".tmp.drivedownload/1168867.driveupload" />
+    <ignored path=".tmp.drivedownload/1171141.driveupload" />
+    <ignored path=".tmp.drivedownload/1176693.driveupload" />
+    <ignored path=".tmp.drivedownload/1200582.driveupload" />
+    <ignored path=".tmp.drivedownload/1202969.driveupload" />
+    <ignored path=".tmp.drivedownload/1213285.driveupload" />
+    <ignored path=".tmp.drivedownload/1213559.driveupload" />
+    <ignored path=".tmp.drivedownload/1227831.driveupload" />
+    <ignored path=".tmp.drivedownload/1230179.driveupload" />
+    <ignored path=".tmp.drivedownload/1260475.driveupload" />
+    <ignored path=".tmp.drivedownload/1264152.driveupload" />
+    <ignored path=".tmp.drivedownload/1279613.driveupload" />
+    <ignored path=".tmp.drivedownload/1285846.driveupload" />
+    <ignored path=".tmp.drivedownload/1321100.driveupload" />
+    <ignored path=".tmp.drivedownload/1332699.driveupload" />
+    <ignored path=".tmp.drivedownload/1334491.driveupload" />
+    <ignored path=".tmp.drivedownload/1338926.driveupload" />
+    <ignored path=".tmp.drivedownload/1347885.driveupload" />
+    <ignored path=".tmp.drivedownload/1365744.driveupload" />
+    <ignored path=".tmp.drivedownload/1372451.driveupload" />
+    <ignored path=".tmp.drivedownload/1381742.driveupload" />
+    <ignored path=".tmp.drivedownload/1387391.driveupload" />
+    <ignored path=".tmp.drivedownload/1387630.driveupload" />
+    <ignored path=".tmp.drivedownload/1395161.driveupload" />
+    <ignored path=".tmp.drivedownload/1399801.driveupload" />
+    <ignored path=".tmp.drivedownload/1419072.driveupload" />
+    <ignored path=".tmp.drivedownload/1439176.driveupload" />
+    <ignored path=".tmp.drivedownload/1444538.driveupload" />
+    <ignored path=".tmp.drivedownload/1508384.driveupload" />
+    <ignored path=".tmp.drivedownload/1511709.driveupload" />
+    <ignored path=".tmp.drivedownload/1520273.driveupload" />
+    <ignored path=".tmp.drivedownload/1520974.driveupload" />
+    <ignored path=".tmp.drivedownload/1535083.driveupload" />
+    <ignored path=".tmp.drivedownload/1541433.driveupload" />
+    <ignored path=".tmp.drivedownload/1560399.driveupload" />
+    <ignored path=".tmp.drivedownload/1565979.driveupload" />
+    <ignored path=".tmp.drivedownload/1566536.driveupload" />
+    <ignored path=".tmp.drivedownload/1583291.driveupload" />
+    <ignored path=".tmp.drivedownload/1594395.driveupload" />
+    <ignored path=".tmp.drivedownload/1606126.driveupload" />
+    <ignored path=".tmp.drivedownload/1626252.driveupload" />
+    <ignored path=".tmp.drivedownload/1637184.driveupload" />
+    <ignored path=".tmp.drivedownload/1642116.driveupload" />
+    <ignored path=".tmp.drivedownload/1654704.driveupload" />
+    <ignored path=".tmp.drivedownload/1661559.driveupload" />
+    <ignored path=".tmp.drivedownload/1667970.driveupload" />
+    <ignored path=".tmp.drivedownload/1672654.driveupload" />
+    <ignored path=".tmp.drivedownload/1696252.driveupload" />
+    <ignored path=".tmp.drivedownload/1704426.driveupload" />
+    <ignored path=".tmp.drivedownload/1707888.driveupload" />
+    <ignored path=".tmp.drivedownload/1716243.driveupload" />
+    <ignored path=".tmp.drivedownload/1729671.driveupload" />
+    <ignored path=".tmp.drivedownload/1731047.driveupload" />
+    <ignored path=".tmp.drivedownload/1735625.driveupload" />
+    <ignored path=".tmp.drivedownload/1736395.driveupload" />
+    <ignored path=".tmp.drivedownload/1768137.driveupload" />
+    <ignored path=".tmp.drivedownload/1772786.driveupload" />
+    <ignored path=".tmp.drivedownload/1786001.driveupload" />
+    <ignored path=".tmp.drivedownload/1794860.driveupload" />
+    <ignored path=".tmp.drivedownload/1801757.driveupload" />
+    <ignored path=".tmp.drivedownload/1803939.driveupload" />
+    <ignored path=".tmp.drivedownload/1821505.driveupload" />
+    <ignored path=".tmp.drivedownload/1829874.driveupload" />
+    <ignored path=".tmp.drivedownload/1853207.driveupload" />
+    <ignored path=".tmp.drivedownload/1861007.driveupload" />
+    <ignored path=".tmp.drivedownload/1878313.driveupload" />
+    <ignored path=".tmp.drivedownload/1880085.driveupload" />
+    <ignored path=".tmp.drivedownload/1901337.driveupload" />
+    <ignored path=".tmp.drivedownload/1902574.driveupload" />
+    <ignored path=".tmp.drivedownload/1906621.driveupload" />
+    <ignored path=".tmp.drivedownload/1915223.driveupload" />
+    <ignored path=".tmp.drivedownload/1926746.driveupload" />
+    <ignored path=".tmp.drivedownload/1933296.driveupload" />
+    <ignored path=".tmp.drivedownload/1940073.driveupload" />
+    <ignored path=".tmp.drivedownload/1943242.driveupload" />
+    <ignored path=".tmp.drivedownload/1949598.driveupload" />
+    <ignored path=".tmp.drivedownload/1962741.driveupload" />
+    <ignored path=".tmp.drivedownload/1966030.driveupload" />
+    <ignored path=".tmp.drivedownload/1967469.driveupload" />
+    <ignored path=".tmp.drivedownload/1976274.driveupload" />
+    <ignored path=".tmp.drivedownload/2005947.driveupload" />
+    <ignored path=".tmp.drivedownload/2008457.driveupload" />
+    <ignored path=".tmp.drivedownload/2031424.driveupload" />
+    <ignored path=".tmp.drivedownload/2036679.driveupload" />
+    <ignored path=".tmp.drivedownload/2046718.driveupload" />
+    <ignored path=".tmp.drivedownload/2051531.driveupload" />
+    <ignored path=".tmp.drivedownload/2063977.driveupload" />
+    <ignored path=".tmp.drivedownload/2070242.driveupload" />
+    <ignored path=".tmp.drivedownload/2077645.driveupload" />
+    <ignored path=".tmp.drivedownload/2094024.driveupload" />
+    <ignored path=".tmp.drivedownload/2096626.driveupload" />
+    <ignored path=".tmp.drivedownload/2114282.driveupload" />
+    <ignored path=".tmp.drivedownload/2135567.driveupload" />
+    <ignored path=".tmp.drivedownload/2147251.driveupload" />
+    <ignored path=".tmp.drivedownload/2150172.driveupload" />
+    <ignored path=".tmp.drivedownload/2154636.driveupload" />
+    <ignored path=".tmp.drivedownload/2162902.driveupload" />
+    <ignored path=".tmp.drivedownload/2168699.driveupload" />
+    <ignored path=".tmp.drivedownload/2170396.driveupload" />
+    <ignored path=".tmp.drivedownload/2171761.driveupload" />
+    <ignored path=".tmp.drivedownload/2175980.driveupload" />
+    <ignored path=".tmp.drivedownload/2176850.driveupload" />
+    <ignored path=".tmp.drivedownload/2179415.driveupload" />
+    <ignored path=".tmp.drivedownload/2198963.driveupload" />
+    <ignored path=".tmp.drivedownload/2215408.driveupload" />
+    <ignored path=".tmp.drivedownload/2217591.driveupload" />
+    <ignored path=".tmp.drivedownload/2217692.driveupload" />
+    <ignored path=".tmp.drivedownload/2230825.driveupload" />
+    <ignored path=".tmp.drivedownload/2256215.driveupload" />
+    <ignored path=".tmp.drivedownload/2277880.driveupload" />
+    <ignored path=".tmp.drivedownload/2283776.driveupload" />
+    <ignored path=".tmp.drivedownload/2287015.driveupload" />
+    <ignored path=".tmp.drivedownload/2296240.driveupload" />
+    <ignored path=".tmp.drivedownload/2298210.driveupload" />
+    <ignored path=".tmp.drivedownload/2312036.driveupload" />
+    <ignored path=".tmp.drivedownload/2314294.driveupload" />
+    <ignored path=".tmp.drivedownload/2318634.driveupload" />
+    <ignored path=".tmp.drivedownload/2318890.driveupload" />
+    <ignored path=".tmp.drivedownload/2330533.driveupload" />
+    <ignored path=".tmp.drivedownload/2335126.driveupload" />
+    <ignored path=".tmp.drivedownload/2343655.driveupload" />
+    <ignored path=".tmp.drivedownload/2347591.driveupload" />
+    <ignored path=".tmp.drivedownload/2353811.driveupload" />
+    <ignored path=".tmp.drivedownload/2355435.driveupload" />
+    <ignored path=".tmp.drivedownload/2375532.driveupload" />
+    <ignored path=".tmp.drivedownload/2398450.driveupload" />
+    <ignored path=".tmp.drivedownload/2436269.driveupload" />
+    <ignored path=".tmp.drivedownload/2436528.driveupload" />
+    <ignored path=".tmp.drivedownload/2437015.driveupload" />
+    <ignored path=".tmp.drivedownload/2438465.driveupload" />
+    <ignored path=".tmp.drivedownload/2442646.driveupload" />
+    <ignored path=".tmp.drivedownload/2451592.driveupload" />
+    <ignored path=".tmp.drivedownload/2471252.driveupload" />
+    <ignored path=".tmp.drivedownload/2482989.driveupload" />
+    <ignored path=".tmp.drivedownload/2485451.driveupload" />
+    <ignored path=".tmp.drivedownload/2495527.driveupload" />
+    <ignored path=".tmp.drivedownload/2499387.driveupload" />
+    <ignored path=".tmp.drivedownload/2527553.driveupload" />
+    <ignored path=".tmp.drivedownload/2544741.driveupload" />
+    <ignored path=".tmp.drivedownload/2557451.driveupload" />
+    <ignored path=".tmp.drivedownload/2564584.driveupload" />
+    <ignored path=".tmp.drivedownload/2577509.driveupload" />
+    <ignored path=".tmp.drivedownload/2591980.driveupload" />
+    <ignored path=".tmp.drivedownload/2598355.driveupload" />
+    <ignored path=".tmp.drivedownload/2615491.driveupload" />
+    <ignored path=".tmp.drivedownload/2623630.driveupload" />
+    <ignored path=".tmp.drivedownload/2636510.driveupload" />
+    <ignored path=".tmp.drivedownload/2640945.driveupload" />
+    <ignored path=".tmp.drivedownload/2641374.driveupload" />
+    <ignored path=".tmp.drivedownload/2682286.driveupload" />
+    <ignored path=".tmp.drivedownload/2682666.driveupload" />
+    <ignored path=".tmp.drivedownload/2689331.driveupload" />
+    <ignored path=".tmp.drivedownload/2690437.driveupload" />
+    <ignored path=".tmp.drivedownload/2699926.driveupload" />
+    <ignored path=".tmp.drivedownload/2705398.driveupload" />
+    <ignored path=".tmp.drivedownload/2712350.driveupload" />
+    <ignored path=".tmp.drivedownload/2737079.driveupload" />
+    <ignored path=".tmp.drivedownload/2740511.driveupload" />
+    <ignored path=".tmp.drivedownload/2744020.driveupload" />
+    <ignored path=".tmp.drivedownload/2747462.driveupload" />
+    <ignored path=".tmp.drivedownload/2765148.driveupload" />
+    <ignored path=".tmp.drivedownload/2771053.driveupload" />
+    <ignored path=".tmp.drivedownload/2771300.driveupload" />
+    <ignored path=".tmp.drivedownload/2784479.driveupload" />
+    <ignored path=".tmp.drivedownload/2800382.driveupload" />
+    <ignored path=".tmp.drivedownload/2825889.driveupload" />
+    <ignored path=".tmp.drivedownload/2851814.driveupload" />
+    <ignored path=".tmp.drivedownload/2856835.driveupload" />
+    <ignored path=".tmp.drivedownload/2867197.driveupload" />
+    <ignored path=".tmp.drivedownload/2867966.driveupload" />
+    <ignored path=".tmp.drivedownload/2887077.driveupload" />
+    <ignored path=".tmp.drivedownload/2898932.driveupload" />
+    <ignored path=".tmp.drivedownload/2937768.driveupload" />
+    <ignored path=".tmp.drivedownload/2946832.driveupload" />
+    <ignored path=".tmp.drivedownload/2949894.driveupload" />
+    <ignored path=".tmp.drivedownload/2952919.driveupload" />
+    <ignored path=".tmp.drivedownload/2959477.driveupload" />
+    <ignored path=".tmp.drivedownload/2959975.driveupload" />
+    <ignored path=".tmp.drivedownload/2972691.driveupload" />
+    <ignored path=".tmp.drivedownload/2988709.driveupload" />
+    <ignored path=".tmp.drivedownload/2991401.driveupload" />
+    <ignored path=".tmp.drivedownload/3007491.driveupload" />
+    <ignored path=".tmp.drivedownload/3007827.driveupload" />
+    <ignored path=".tmp.drivedownload/3011869.driveupload" />
+    <ignored path=".tmp.drivedownload/3053884.driveupload" />
+    <ignored path=".tmp.drivedownload/3063182.driveupload" />
+    <ignored path=".tmp.drivedownload/3071265.driveupload" />
+    <ignored path=".tmp.drivedownload/3071873.driveupload" />
+    <ignored path=".tmp.drivedownload/3100511.driveupload" />
+    <ignored path=".tmp.drivedownload/3101878.driveupload" />
+    <ignored path=".tmp.drivedownload/3102008.driveupload" />
+    <ignored path=".tmp.drivedownload/3105041.driveupload" />
+    <ignored path=".tmp.drivedownload/3106018.driveupload" />
+    <ignored path=".tmp.drivedownload/3107975.driveupload" />
+    <ignored path=".tmp.drivedownload/3115385.driveupload" />
+    <ignored path=".tmp.drivedownload/3115943.driveupload" />
+    <ignored path=".tmp.drivedownload/3124259.driveupload" />
+    <ignored path=".tmp.drivedownload/3126560.driveupload" />
+    <ignored path=".tmp.drivedownload/3126884.driveupload" />
+    <ignored path=".tmp.drivedownload/3182230.driveupload" />
+    <ignored path=".tmp.drivedownload/3187937.driveupload" />
+    <ignored path=".tmp.drivedownload/3189153.driveupload" />
+    <ignored path=".tmp.drivedownload/3224120.driveupload" />
+    <ignored path=".tmp.drivedownload/3236975.driveupload" />
+    <ignored path=".tmp.drivedownload/3241124.driveupload" />
+    <ignored path=".tmp.drivedownload/3244176.driveupload" />
+    <ignored path=".tmp.drivedownload/3252943.driveupload" />
+    <ignored path=".tmp.drivedownload/3255630.driveupload" />
+    <ignored path=".tmp.drivedownload/3279891.driveupload" />
+    <ignored path=".tmp.drivedownload/3284152.driveupload" />
+    <ignored path=".tmp.drivedownload/3291394.driveupload" />
+    <ignored path=".tmp.drivedownload/3300237.driveupload" />
+    <ignored path=".tmp.drivedownload/3312106.driveupload" />
+    <ignored path=".tmp.drivedownload/3319511.driveupload" />
+    <ignored path=".tmp.drivedownload/3340180.driveupload" />
+    <ignored path=".tmp.drivedownload/3341220.driveupload" />
+    <ignored path=".tmp.drivedownload/3354000.driveupload" />
+    <ignored path=".tmp.drivedownload/3383703.driveupload" />
+    <ignored path=".tmp.drivedownload/3388882.driveupload" />
+    <ignored path=".tmp.drivedownload/3397368.driveupload" />
+    <ignored path=".tmp.drivedownload/3410238.driveupload" />
+    <ignored path=".tmp.drivedownload/3431756.driveupload" />
+    <ignored path=".tmp.drivedownload/3439653.driveupload" />
+    <ignored path=".tmp.drivedownload/3448206.driveupload" />
+    <ignored path=".tmp.drivedownload/3448476.driveupload" />
+    <ignored path=".tmp.drivedownload/3451836.driveupload" />
+    <ignored path=".tmp.drivedownload/3463092.driveupload" />
+    <ignored path=".tmp.drivedownload/3479067.driveupload" />
+    <ignored path=".tmp.drivedownload/3491034.driveupload" />
+    <ignored path=".tmp.drivedownload/3505014.driveupload" />
+    <ignored path=".tmp.drivedownload/3542398.driveupload" />
+    <ignored path=".tmp.drivedownload/3547388.driveupload" />
+    <ignored path=".tmp.drivedownload/3567050.driveupload" />
+    <ignored path=".tmp.drivedownload/3577357.driveupload" />
+    <ignored path=".tmp.drivedownload/3578975.driveupload" />
+    <ignored path=".tmp.drivedownload/3596078.driveupload" />
+    <ignored path=".tmp.drivedownload/3601073.driveupload" />
+    <ignored path=".tmp.drivedownload/3602307.driveupload" />
+    <ignored path=".tmp.drivedownload/3627207.driveupload" />
+    <ignored path=".tmp.drivedownload/3628188.driveupload" />
+    <ignored path=".tmp.drivedownload/3637103.driveupload" />
+    <ignored path=".tmp.drivedownload/3641174.driveupload" />
+    <ignored path=".tmp.drivedownload/3649316.driveupload" />
+    <ignored path=".tmp.drivedownload/3657461.driveupload" />
+    <ignored path=".tmp.drivedownload/3662279.driveupload" />
+    <ignored path=".tmp.drivedownload/3666799.driveupload" />
+    <ignored path=".tmp.drivedownload/3669558.driveupload" />
+    <ignored path=".tmp.drivedownload/3671317.driveupload" />
+    <ignored path=".tmp.drivedownload/3677385.driveupload" />
+    <ignored path=".tmp.drivedownload/3680601.driveupload" />
+    <ignored path=".tmp.drivedownload/3685867.driveupload" />
+    <ignored path=".tmp.drivedownload/3695406.driveupload" />
+    <ignored path=".tmp.drivedownload/3698911.driveupload" />
+    <ignored path=".tmp.drivedownload/3703072.driveupload" />
+    <ignored path=".tmp.drivedownload/3706103.driveupload" />
+    <ignored path=".tmp.drivedownload/3709869.driveupload" />
+    <ignored path=".tmp.drivedownload/3715155.driveupload" />
+    <ignored path=".tmp.drivedownload/3751037.driveupload" />
+    <ignored path=".tmp.drivedownload/3758206.driveupload" />
+    <ignored path=".tmp.drivedownload/3766592.driveupload" />
+    <ignored path=".tmp.drivedownload/3787418.driveupload" />
+    <ignored path=".tmp.drivedownload/3791031.driveupload" />
+    <ignored path=".tmp.drivedownload/3814269.driveupload" />
+    <ignored path=".tmp.drivedownload/3826210.driveupload" />
+    <ignored path=".tmp.drivedownload/3831261.driveupload" />
+    <ignored path=".tmp.drivedownload/3855373.driveupload" />
+    <ignored path=".tmp.drivedownload/3866784.driveupload" />
+    <ignored path=".tmp.drivedownload/3867925.driveupload" />
+    <ignored path=".tmp.drivedownload/3871048.driveupload" />
+    <ignored path=".tmp.drivedownload/3873516.driveupload" />
+    <ignored path=".tmp.drivedownload/3890711.driveupload" />
+    <ignored path=".tmp.drivedownload/3893868.driveupload" />
+    <ignored path=".tmp.drivedownload/3904345.driveupload" />
+    <ignored path=".tmp.drivedownload/3912199.driveupload" />
+    <ignored path=".tmp.drivedownload/3918558.driveupload" />
+    <ignored path=".tmp.drivedownload/3931761.driveupload" />
+    <ignored path=".tmp.drivedownload/3931817.driveupload" />
+    <ignored path=".tmp.drivedownload/3936961.driveupload" />
+    <ignored path=".tmp.drivedownload/3939941.driveupload" />
+    <ignored path=".tmp.drivedownload/3950944.driveupload" />
+    <ignored path=".tmp.drivedownload/3952357.driveupload" />
+    <ignored path=".tmp.drivedownload/3994663.driveupload" />
+    <ignored path=".tmp.drivedownload/4004234.driveupload" />
+    <ignored path=".tmp.drivedownload/4023070.driveupload" />
+    <ignored path=".tmp.drivedownload/4027179.driveupload" />
+    <ignored path=".tmp.drivedownload/4032555.driveupload" />
+    <ignored path=".tmp.drivedownload/4037293.driveupload" />
+    <ignored path=".tmp.drivedownload/4045991.driveupload" />
+    <ignored path=".tmp.drivedownload/4065330.driveupload" />
+    <ignored path=".tmp.drivedownload/4086916.driveupload" />
+    <ignored path=".tmp.drivedownload/4126552.driveupload" />
+    <ignored path=".tmp.drivedownload/4157502.driveupload" />
+    <ignored path=".tmp.drivedownload/4161360.driveupload" />
+    <ignored path=".tmp.drivedownload/4161460.driveupload" />
+    <ignored path=".tmp.drivedownload/4184644.driveupload" />
+    <ignored path=".tmp.drivedownload/4205644.driveupload" />
+    <ignored path=".tmp.drivedownload/4215422.driveupload" />
+    <ignored path=".tmp.drivedownload/4234003.driveupload" />
+    <ignored path=".tmp.drivedownload/4245793.driveupload" />
+    <ignored path=".tmp.drivedownload/4256988.driveupload" />
+    <ignored path=".tmp.drivedownload/4258284.driveupload" />
+    <ignored path=".tmp.drivedownload/4278057.driveupload" />
+    <ignored path=".tmp.drivedownload/4294879.driveupload" />
+    <ignored path=".tmp.drivedownload/4294984.driveupload" />
+    <ignored path=".tmp.drivedownload/4298918.driveupload" />
+    <ignored path=".tmp.drivedownload/4308993.driveupload" />
+    <ignored path=".tmp.drivedownload/4327802.driveupload" />
+    <ignored path=".tmp.drivedownload/4336320.driveupload" />
+    <ignored path=".tmp.drivedownload/4349283.driveupload" />
+    <ignored path=".tmp.drivedownload/4383246.driveupload" />
+    <ignored path=".tmp.drivedownload/4387401.driveupload" />
+    <ignored path=".tmp.drivedownload/4402399.driveupload" />
+    <ignored path=".tmp.drivedownload/4409074.driveupload" />
+    <ignored path=".tmp.drivedownload/4422262.driveupload" />
+    <ignored path=".tmp.drivedownload/4429642.driveupload" />
+    <ignored path=".tmp.drivedownload/4439526.driveupload" />
+    <ignored path=".tmp.drivedownload/4440037.driveupload" />
+    <ignored path=".tmp.drivedownload/4453091.driveupload" />
+    <ignored path=".tmp.drivedownload/4470684.driveupload" />
+    <ignored path=".tmp.drivedownload/4479261.driveupload" />
+    <ignored path=".tmp.drivedownload/4521776.driveupload" />
+    <ignored path=".tmp.drivedownload/4524596.driveupload" />
+    <ignored path=".tmp.drivedownload/4534185.driveupload" />
+    <ignored path=".tmp.drivedownload/4540313.driveupload" />
+    <ignored path=".tmp.drivedownload/4557433.driveupload" />
+    <ignored path=".tmp.drivedownload/4560413.driveupload" />
+    <ignored path=".tmp.drivedownload/4566208.driveupload" />
+    <ignored path=".tmp.drivedownload/4580670.driveupload" />
+    <ignored path=".tmp.drivedownload/4600970.driveupload" />
+    <ignored path=".tmp.drivedownload/4614607.driveupload" />
+    <ignored path=".tmp.drivedownload/4617689.driveupload" />
+    <ignored path=".tmp.drivedownload/4619058.driveupload" />
+    <ignored path=".tmp.drivedownload/4633877.driveupload" />
+    <ignored path=".tmp.drivedownload/4661188.driveupload" />
+    <ignored path=".tmp.drivedownload/4668631.driveupload" />
+    <ignored path=".tmp.drivedownload/4672280.driveupload" />
+    <ignored path=".tmp.drivedownload/4694919.driveupload" />
+    <ignored path=".tmp.drivedownload/4709771.driveupload" />
+    <ignored path=".tmp.drivedownload/4710501.driveupload" />
+    <ignored path=".tmp.drivedownload/4722148.driveupload" />
+    <ignored path=".tmp.drivedownload/4722754.driveupload" />
+    <ignored path=".tmp.drivedownload/4733711.driveupload" />
+    <ignored path=".tmp.drivedownload/4769047.driveupload" />
+    <ignored path=".tmp.drivedownload/4774560.driveupload" />
+    <ignored path=".tmp.drivedownload/4779793.driveupload" />
+    <ignored path=".tmp.drivedownload/4790623.driveupload" />
+    <ignored path=".tmp.drivedownload/4790869.driveupload" />
+    <ignored path=".tmp.drivedownload/4797670.driveupload" />
+    <ignored path=".tmp.drivedownload/4849194.driveupload" />
+    <ignored path=".tmp.drivedownload/4896313.driveupload" />
+    <ignored path=".tmp.drivedownload/4919877.driveupload" />
+    <ignored path=".tmp.drivedownload/4923937.driveupload" />
+    <ignored path=".tmp.drivedownload/4934981.driveupload" />
+    <ignored path=".tmp.drivedownload/4941747.driveupload" />
+    <ignored path=".tmp.drivedownload/4947916.driveupload" />
+    <ignored path=".tmp.drivedownload/4952909.driveupload" />
+    <ignored path=".tmp.drivedownload/4960308.driveupload" />
+    <ignored path=".tmp.drivedownload/4966846.driveupload" />
+    <ignored path=".tmp.drivedownload/4981571.driveupload" />
+    <ignored path=".tmp.drivedownload/5001730.driveupload" />
+    <ignored path=".tmp.drivedownload/5008239.driveupload" />
+    <ignored path=".tmp.drivedownload/5022059.driveupload" />
+    <ignored path=".tmp.drivedownload/5037579.driveupload" />
+    <ignored path=".tmp.drivedownload/5051533.driveupload" />
+    <ignored path=".tmp.drivedownload/5065657.driveupload" />
+    <ignored path=".tmp.drivedownload/5066505.driveupload" />
+    <ignored path=".tmp.drivedownload/5067553.driveupload" />
+    <ignored path=".tmp.drivedownload/5081523.driveupload" />
+    <ignored path=".tmp.drivedownload/5091474.driveupload" />
+    <ignored path=".tmp.drivedownload/5120141.driveupload" />
+    <ignored path=".tmp.drivedownload/5123428.driveupload" />
+    <ignored path=".tmp.drivedownload/5135874.driveupload" />
+    <ignored path=".tmp.drivedownload/5172104.driveupload" />
+    <ignored path=".tmp.drivedownload/5172591.driveupload" />
+    <ignored path=".tmp.drivedownload/5174302.driveupload" />
+    <ignored path=".tmp.drivedownload/5185371.driveupload" />
+    <ignored path=".tmp.drivedownload/5195841.driveupload" />
+    <ignored path=".tmp.drivedownload/5213908.driveupload" />
+    <ignored path=".tmp.drivedownload/5223555.driveupload" />
+    <ignored path=".tmp.drivedownload/5226246.driveupload" />
+    <ignored path=".tmp.drivedownload/5226670.driveupload" />
+    <ignored path=".tmp.drivedownload/5227562.driveupload" />
+    <ignored path=".tmp.drivedownload/5229672.driveupload" />
+    <ignored path=".tmp.drivedownload/5241747.driveupload" />
+    <ignored path=".tmp.drivedownload/5247692.driveupload" />
+    <ignored path=".tmp.drivedownload/5252395.driveupload" />
+    <ignored path=".tmp.drivedownload/5253706.driveupload" />
+    <ignored path=".tmp.drivedownload/5275695.driveupload" />
+    <ignored path=".tmp.drivedownload/5284272.driveupload" />
+    <ignored path=".tmp.drivedownload/5288726.driveupload" />
+    <ignored path=".tmp.drivedownload/5295044.driveupload" />
+    <ignored path=".tmp.drivedownload/5308327.driveupload" />
+    <ignored path=".tmp.drivedownload/5321102.driveupload" />
+    <ignored path=".tmp.drivedownload/5325748.driveupload" />
+    <ignored path=".tmp.drivedownload/5358248.driveupload" />
+    <ignored path=".tmp.drivedownload/5365173.driveupload" />
+    <ignored path=".tmp.drivedownload/5367216.driveupload" />
+    <ignored path=".tmp.drivedownload/5381370.driveupload" />
+    <ignored path=".tmp.drivedownload/5382135.driveupload" />
+    <ignored path=".tmp.drivedownload/5397061.driveupload" />
+    <ignored path=".tmp.drivedownload/5411265.driveupload" />
+    <ignored path=".tmp.drivedownload/5413627.driveupload" />
+    <ignored path=".tmp.drivedownload/5414722.driveupload" />
+    <ignored path=".tmp.drivedownload/5431583.driveupload" />
+    <ignored path=".tmp.drivedownload/5433178.driveupload" />
+    <ignored path=".tmp.drivedownload/5450848.driveupload" />
+    <ignored path=".tmp.drivedownload/5451173.driveupload" />
+    <ignored path=".tmp.drivedownload/5452739.driveupload" />
+    <ignored path=".tmp.drivedownload/5468965.driveupload" />
+    <ignored path=".tmp.drivedownload/5473291.driveupload" />
+    <ignored path=".tmp.drivedownload/5476591.driveupload" />
+    <ignored path=".tmp.drivedownload/5502161.driveupload" />
+    <ignored path=".tmp.drivedownload/5534371.driveupload" />
+    <ignored path=".tmp.drivedownload/5569977.driveupload" />
+    <ignored path=".tmp.drivedownload/5576929.driveupload" />
+    <ignored path=".tmp.drivedownload/5581130.driveupload" />
+    <ignored path=".tmp.drivedownload/5582462.driveupload" />
+    <ignored path=".tmp.drivedownload/5599621.driveupload" />
+    <ignored path=".tmp.drivedownload/5609984.driveupload" />
+    <ignored path=".tmp.drivedownload/5611976.driveupload" />
+    <ignored path=".tmp.drivedownload/5623899.driveupload" />
+    <ignored path=".tmp.drivedownload/5625737.driveupload" />
+    <ignored path=".tmp.drivedownload/5626785.driveupload" />
+    <ignored path=".tmp.drivedownload/5640253.driveupload" />
+    <ignored path=".tmp.drivedownload/5644604.driveupload" />
+    <ignored path=".tmp.drivedownload/5652592.driveupload" />
+    <ignored path=".tmp.drivedownload/5663297.driveupload" />
+    <ignored path=".tmp.drivedownload/5694243.driveupload" />
+    <ignored path=".tmp.drivedownload/5694429.driveupload" />
+    <ignored path=".tmp.drivedownload/5698436.driveupload" />
+    <ignored path=".tmp.drivedownload/5706037.driveupload" />
+    <ignored path=".tmp.drivedownload/5711768.driveupload" />
+    <ignored path=".tmp.drivedownload/5715982.driveupload" />
+    <ignored path=".tmp.drivedownload/5722103.driveupload" />
+    <ignored path=".tmp.drivedownload/5726986.driveupload" />
+    <ignored path=".tmp.drivedownload/5731395.driveupload" />
+    <ignored path=".tmp.drivedownload/5737536.driveupload" />
+    <ignored path=".tmp.drivedownload/5777654.driveupload" />
+    <ignored path=".tmp.drivedownload/5781929.driveupload" />
+    <ignored path=".tmp.drivedownload/5794147.driveupload" />
+    <ignored path=".tmp.drivedownload/5798837.driveupload" />
+    <ignored path=".tmp.drivedownload/5806796.driveupload" />
+    <ignored path=".tmp.drivedownload/5810026.driveupload" />
+    <ignored path=".tmp.drivedownload/5816321.driveupload" />
+    <ignored path=".tmp.drivedownload/5817254.driveupload" />
+    <ignored path=".tmp.drivedownload/5817825.driveupload" />
+    <ignored path=".tmp.drivedownload/5820997.driveupload" />
+    <ignored path=".tmp.drivedownload/5823232.driveupload" />
+    <ignored path=".tmp.drivedownload/5826431.driveupload" />
+    <ignored path=".tmp.drivedownload/5853350.driveupload" />
+    <ignored path=".tmp.drivedownload/5862410.driveupload" />
+    <ignored path=".tmp.drivedownload/5873284.driveupload" />
+    <ignored path=".tmp.drivedownload/5873816.driveupload" />
+    <ignored path=".tmp.drivedownload/5875096.driveupload" />
+    <ignored path=".tmp.drivedownload/5875316.driveupload" />
+    <ignored path=".tmp.drivedownload/5881699.driveupload" />
+    <ignored path=".tmp.drivedownload/5891321.driveupload" />
+    <ignored path=".tmp.drivedownload/5904367.driveupload" />
+    <ignored path=".tmp.drivedownload/5904480.driveupload" />
+    <ignored path=".tmp.drivedownload/5909415.driveupload" />
+    <ignored path=".tmp.drivedownload/5911359.driveupload" />
+    <ignored path=".tmp.drivedownload/5911545.driveupload" />
+    <ignored path=".tmp.drivedownload/5914323.driveupload" />
+    <ignored path=".tmp.drivedownload/5924107.driveupload" />
+    <ignored path=".tmp.drivedownload/5925171.driveupload" />
+    <ignored path=".tmp.drivedownload/5940918.driveupload" />
+    <ignored path=".tmp.drivedownload/5940987.driveupload" />
+    <ignored path=".tmp.drivedownload/5942755.driveupload" />
+    <ignored path=".tmp.drivedownload/5950635.driveupload" />
+    <ignored path=".tmp.drivedownload/5978679.driveupload" />
+    <ignored path=".tmp.drivedownload/6010637.driveupload" />
+    <ignored path=".tmp.drivedownload/6011660.driveupload" />
+    <ignored path=".tmp.drivedownload/6014335.driveupload" />
+    <ignored path=".tmp.drivedownload/6021958.driveupload" />
+    <ignored path=".tmp.drivedownload/6026261.driveupload" />
+    <ignored path=".tmp.drivedownload/6029594.driveupload" />
+    <ignored path=".tmp.drivedownload/6041466.driveupload" />
+    <ignored path=".tmp.drivedownload/6076955.driveupload" />
+    <ignored path=".tmp.drivedownload/6077485.driveupload" />
+    <ignored path=".tmp.drivedownload/6083293.driveupload" />
+    <ignored path=".tmp.drivedownload/6101163.driveupload" />
+    <ignored path=".tmp.drivedownload/6104693.driveupload" />
+    <ignored path=".tmp.drivedownload/6124809.driveupload" />
+    <ignored path=".tmp.drivedownload/6137817.driveupload" />
+    <ignored path=".tmp.drivedownload/6156916.driveupload" />
+    <ignored path=".tmp.drivedownload/6163249.driveupload" />
+    <ignored path=".tmp.drivedownload/6175910.driveupload" />
+    <ignored path=".tmp.drivedownload/6195330.driveupload" />
+    <ignored path=".tmp.drivedownload/6199502.driveupload" />
+    <ignored path=".tmp.drivedownload/6207699.driveupload" />
+    <ignored path=".tmp.drivedownload/6216227.driveupload" />
+    <ignored path=".tmp.drivedownload/6227989.driveupload" />
+    <ignored path=".tmp.drivedownload/6230264.driveupload" />
+    <ignored path=".tmp.drivedownload/6238578.driveupload" />
+    <ignored path=".tmp.drivedownload/6243903.driveupload" />
+    <ignored path=".tmp.drivedownload/6260598.driveupload" />
+    <ignored path=".tmp.drivedownload/6276552.driveupload" />
+    <ignored path=".tmp.drivedownload/6305834.driveupload" />
+    <ignored path=".tmp.drivedownload/6322434.driveupload" />
+    <ignored path=".tmp.drivedownload/6330385.driveupload" />
+    <ignored path=".tmp.drivedownload/6336971.driveupload" />
+    <ignored path=".tmp.drivedownload/6337770.driveupload" />
+    <ignored path=".tmp.drivedownload/6346985.driveupload" />
+    <ignored path=".tmp.drivedownload/6359991.driveupload" />
+    <ignored path=".tmp.drivedownload/6412028.driveupload" />
+    <ignored path=".tmp.drivedownload/6427441.driveupload" />
+    <ignored path=".tmp.drivedownload/6435688.driveupload" />
+    <ignored path=".tmp.drivedownload/6469824.driveupload" />
+    <ignored path=".tmp.drivedownload/6476698.driveupload" />
+    <ignored path=".tmp.drivedownload/6487711.driveupload" />
+    <ignored path=".tmp.drivedownload/6505886.driveupload" />
+    <ignored path=".tmp.drivedownload/6520145.driveupload" />
+    <ignored path=".tmp.drivedownload/6525291.driveupload" />
+    <ignored path=".tmp.drivedownload/6540755.driveupload" />
+    <ignored path=".tmp.drivedownload/6541260.driveupload" />
+    <ignored path=".tmp.drivedownload/6544378.driveupload" />
+    <ignored path=".tmp.drivedownload/6557553.driveupload" />
+    <ignored path=".tmp.drivedownload/6561682.driveupload" />
+    <ignored path=".tmp.drivedownload/6562797.driveupload" />
+    <ignored path=".tmp.drivedownload/6590902.driveupload" />
+    <ignored path=".tmp.drivedownload/6602079.driveupload" />
+    <ignored path=".tmp.drivedownload/6607201.driveupload" />
+    <ignored path=".tmp.drivedownload/6612606.driveupload" />
+    <ignored path=".tmp.drivedownload/6615552.driveupload" />
+    <ignored path=".tmp.drivedownload/6638839.driveupload" />
+    <ignored path=".tmp.drivedownload/6648591.driveupload" />
+    <ignored path=".tmp.drivedownload/6660404.driveupload" />
+    <ignored path=".tmp.drivedownload/6673205.driveupload" />
+    <ignored path=".tmp.drivedownload/6675874.driveupload" />
+    <ignored path=".tmp.drivedownload/6685262.driveupload" />
+    <ignored path=".tmp.drivedownload/6686769.driveupload" />
+    <ignored path=".tmp.drivedownload/6695216.driveupload" />
+    <ignored path=".tmp.drivedownload/6695998.driveupload" />
+    <ignored path=".tmp.drivedownload/6714646.driveupload" />
+    <ignored path=".tmp.drivedownload/6715960.driveupload" />
+    <ignored path=".tmp.drivedownload/6733034.driveupload" />
+    <ignored path=".tmp.drivedownload/6734721.driveupload" />
+    <ignored path=".tmp.drivedownload/6756533.driveupload" />
+    <ignored path=".tmp.drivedownload/6763166.driveupload" />
+    <ignored path=".tmp.drivedownload/6789406.driveupload" />
+    <ignored path=".tmp.drivedownload/6801987.driveupload" />
+    <ignored path=".tmp.drivedownload/6802335.driveupload" />
+    <ignored path=".tmp.drivedownload/6812029.driveupload" />
+    <ignored path=".tmp.drivedownload/6820392.driveupload" />
+    <ignored path=".tmp.drivedownload/6824873.driveupload" />
+    <ignored path=".tmp.drivedownload/6825474.driveupload" />
+    <ignored path=".tmp.drivedownload/6826639.driveupload" />
+    <ignored path=".tmp.drivedownload/6847945.driveupload" />
+    <ignored path=".tmp.drivedownload/6853004.driveupload" />
+    <ignored path=".tmp.drivedownload/6858682.driveupload" />
+    <ignored path=".tmp.drivedownload/6866367.driveupload" />
+    <ignored path=".tmp.drivedownload/6875579.driveupload" />
+    <ignored path=".tmp.drivedownload/6884277.driveupload" />
+    <ignored path=".tmp.drivedownload/6884943.driveupload" />
+    <ignored path=".tmp.drivedownload/6892424.driveupload" />
+    <ignored path=".tmp.drivedownload/6906470.driveupload" />
+    <ignored path=".tmp.drivedownload/6910425.driveupload" />
+    <ignored path=".tmp.drivedownload/6930791.driveupload" />
+    <ignored path=".tmp.drivedownload/6930996.driveupload" />
+    <ignored path=".tmp.drivedownload/6934804.driveupload" />
+    <ignored path=".tmp.drivedownload/6950895.driveupload" />
+    <ignored path=".tmp.drivedownload/6951971.driveupload" />
+    <ignored path=".tmp.drivedownload/6965921.driveupload" />
+    <ignored path=".tmp.drivedownload/6978697.driveupload" />
+    <ignored path=".tmp.drivedownload/6991029.driveupload" />
+    <ignored path=".tmp.drivedownload/6993049.driveupload" />
+    <ignored path=".tmp.drivedownload/7002716.driveupload" />
+    <ignored path=".tmp.drivedownload/7010850.driveupload" />
+    <ignored path=".tmp.drivedownload/7014009.driveupload" />
+    <ignored path=".tmp.drivedownload/7030229.driveupload" />
+    <ignored path=".tmp.drivedownload/7046507.driveupload" />
+    <ignored path=".tmp.drivedownload/7057814.driveupload" />
+    <ignored path=".tmp.drivedownload/7061294.driveupload" />
+    <ignored path=".tmp.drivedownload/7065977.driveupload" />
+    <ignored path=".tmp.drivedownload/7071955.driveupload" />
+    <ignored path=".tmp.drivedownload/7075978.driveupload" />
+    <ignored path=".tmp.drivedownload/7084381.driveupload" />
+    <ignored path=".tmp.drivedownload/7087928.driveupload" />
+    <ignored path=".tmp.drivedownload/7090745.driveupload" />
+    <ignored path=".tmp.drivedownload/7097473.driveupload" />
+    <ignored path=".tmp.drivedownload/7099482.driveupload" />
+    <ignored path=".tmp.drivedownload/7113518.driveupload" />
+    <ignored path=".tmp.drivedownload/7121050.driveupload" />
+    <ignored path=".tmp.drivedownload/7181315.driveupload" />
+    <ignored path=".tmp.drivedownload/7182653.driveupload" />
+    <ignored path=".tmp.drivedownload/7185231.driveupload" />
+    <ignored path=".tmp.drivedownload/7185409.driveupload" />
+    <ignored path=".tmp.drivedownload/7212263.driveupload" />
+    <ignored path=".tmp.drivedownload/7223393.driveupload" />
+    <ignored path=".tmp.drivedownload/7223830.driveupload" />
+    <ignored path=".tmp.drivedownload/7236561.driveupload" />
+    <ignored path=".tmp.drivedownload/7260166.driveupload" />
+    <ignored path=".tmp.drivedownload/7280065.driveupload" />
+    <ignored path=".tmp.drivedownload/7281107.driveupload" />
+    <ignored path=".tmp.drivedownload/7296585.driveupload" />
+    <ignored path=".tmp.drivedownload/7311394.driveupload" />
+    <ignored path=".tmp.drivedownload/7337516.driveupload" />
+    <ignored path=".tmp.drivedownload/7343489.driveupload" />
+    <ignored path=".tmp.drivedownload/7343884.driveupload" />
+    <ignored path=".tmp.drivedownload/7352068.driveupload" />
+    <ignored path=".tmp.drivedownload/7357390.driveupload" />
+    <ignored path=".tmp.drivedownload/7370197.driveupload" />
+    <ignored path=".tmp.drivedownload/7371383.driveupload" />
+    <ignored path=".tmp.drivedownload/7375882.driveupload" />
+    <ignored path=".tmp.drivedownload/7380668.driveupload" />
+    <ignored path=".tmp.drivedownload/7398184.driveupload" />
+    <ignored path=".tmp.drivedownload/7461424.driveupload" />
+    <ignored path=".tmp.drivedownload/7465923.driveupload" />
+    <ignored path=".tmp.drivedownload/7475314.driveupload" />
+    <ignored path=".tmp.drivedownload/7485958.driveupload" />
+    <ignored path=".tmp.drivedownload/7486343.driveupload" />
+    <ignored path=".tmp.drivedownload/7490357.driveupload" />
+    <ignored path=".tmp.drivedownload/7495067.driveupload" />
+    <ignored path=".tmp.drivedownload/7505558.driveupload" />
+    <ignored path=".tmp.drivedownload/7543205.driveupload" />
+    <ignored path=".tmp.drivedownload/7544197.driveupload" />
+    <ignored path=".tmp.drivedownload/7557011.driveupload" />
+    <ignored path=".tmp.drivedownload/7571156.driveupload" />
+    <ignored path=".tmp.drivedownload/7576205.driveupload" />
+    <ignored path=".tmp.drivedownload/7579995.driveupload" />
+    <ignored path=".tmp.drivedownload/7584402.driveupload" />
+    <ignored path=".tmp.drivedownload/7602587.driveupload" />
+    <ignored path=".tmp.drivedownload/7605577.driveupload" />
+    <ignored path=".tmp.drivedownload/7610126.driveupload" />
+    <ignored path=".tmp.drivedownload/7610730.driveupload" />
+    <ignored path=".tmp.drivedownload/7629251.driveupload" />
+    <ignored path=".tmp.drivedownload/7629368.driveupload" />
+    <ignored path=".tmp.drivedownload/7633907.driveupload" />
+    <ignored path=".tmp.drivedownload/7635848.driveupload" />
+    <ignored path=".tmp.drivedownload/7636297.driveupload" />
+    <ignored path=".tmp.drivedownload/7640226.driveupload" />
+    <ignored path=".tmp.drivedownload/7665711.driveupload" />
+    <ignored path=".tmp.drivedownload/7682075.driveupload" />
+    <ignored path=".tmp.drivedownload/7688161.driveupload" />
+    <ignored path=".tmp.drivedownload/7703302.driveupload" />
+    <ignored path=".tmp.drivedownload/7712543.driveupload" />
+    <ignored path=".tmp.drivedownload/7715331.driveupload" />
+    <ignored path=".tmp.drivedownload/7723142.driveupload" />
+    <ignored path=".tmp.drivedownload/7737964.driveupload" />
+    <ignored path=".tmp.drivedownload/7749008.driveupload" />
+    <ignored path=".tmp.drivedownload/7767242.driveupload" />
+    <ignored path=".tmp.drivedownload/7771088.driveupload" />
+    <ignored path=".tmp.drivedownload/7781692.driveupload" />
+    <ignored path=".tmp.drivedownload/7788350.driveupload" />
+    <ignored path=".tmp.drivedownload/7788917.driveupload" />
+    <ignored path=".tmp.drivedownload/7793088.driveupload" />
+    <ignored path=".tmp.drivedownload/7804671.driveupload" />
+    <ignored path=".tmp.drivedownload/7831103.driveupload" />
+    <ignored path=".tmp.drivedownload/7845910.driveupload" />
+    <ignored path=".tmp.drivedownload/7850698.driveupload" />
+    <ignored path=".tmp.drivedownload/7854415.driveupload" />
+    <ignored path=".tmp.drivedownload/7862140.driveupload" />
+    <ignored path=".tmp.drivedownload/7862597.driveupload" />
+    <ignored path=".tmp.drivedownload/7879877.driveupload" />
+    <ignored path=".tmp.drivedownload/7888585.driveupload" />
+    <ignored path=".tmp.drivedownload/7888814.driveupload" />
+    <ignored path=".tmp.drivedownload/7900480.driveupload" />
+    <ignored path=".tmp.drivedownload/7901782.driveupload" />
+    <ignored path=".tmp.drivedownload/7908592.driveupload" />
+    <ignored path=".tmp.drivedownload/7913978.driveupload" />
+    <ignored path=".tmp.drivedownload/7914872.driveupload" />
+    <ignored path=".tmp.drivedownload/7927507.driveupload" />
+    <ignored path=".tmp.drivedownload/7934637.driveupload" />
+    <ignored path=".tmp.drivedownload/7943870.driveupload" />
+    <ignored path=".tmp.drivedownload/7946528.driveupload" />
+    <ignored path=".tmp.drivedownload/7970385.driveupload" />
+    <ignored path=".tmp.drivedownload/7971025.driveupload" />
+    <ignored path=".tmp.drivedownload/7973863.driveupload" />
+    <ignored path=".tmp.drivedownload/7980635.driveupload" />
+    <ignored path=".tmp.drivedownload/7993772.driveupload" />
+    <ignored path=".tmp.drivedownload/8012710.driveupload" />
+    <ignored path=".tmp.drivedownload/8023813.driveupload" />
+    <ignored path=".tmp.drivedownload/8033608.driveupload" />
+    <ignored path=".tmp.drivedownload/8035509.driveupload" />
+    <ignored path=".tmp.drivedownload/8040787.driveupload" />
+    <ignored path=".tmp.drivedownload/8042419.driveupload" />
+    <ignored path=".tmp.drivedownload/8044791.driveupload" />
+    <ignored path=".tmp.drivedownload/8044856.driveupload" />
+    <ignored path=".tmp.drivedownload/8052209.driveupload" />
+    <ignored path=".tmp.drivedownload/8052682.driveupload" />
+    <ignored path=".tmp.drivedownload/8058514.driveupload" />
+    <ignored path=".tmp.drivedownload/8083066.driveupload" />
+    <ignored path=".tmp.drivedownload/8086789.driveupload" />
+    <ignored path=".tmp.drivedownload/8094471.driveupload" />
+    <ignored path=".tmp.drivedownload/8100445.driveupload" />
+    <ignored path=".tmp.drivedownload/8112584.driveupload" />
+    <ignored path=".tmp.drivedownload/8135389.driveupload" />
+    <ignored path=".tmp.drivedownload/8145402.driveupload" />
+    <ignored path=".tmp.drivedownload/8147708.driveupload" />
+    <ignored path=".tmp.drivedownload/8149864.driveupload" />
+    <ignored path=".tmp.drivedownload/8150197.driveupload" />
+    <ignored path=".tmp.drivedownload/8178961.driveupload" />
+    <ignored path=".tmp.drivedownload/8185120.driveupload" />
+    <ignored path=".tmp.drivedownload/8185318.driveupload" />
+    <ignored path=".tmp.drivedownload/8226085.driveupload" />
+    <ignored path=".tmp.drivedownload/8228592.driveupload" />
+    <ignored path=".tmp.drivedownload/8233222.driveupload" />
+    <ignored path=".tmp.drivedownload/8236079.driveupload" />
+    <ignored path=".tmp.drivedownload/8244258.driveupload" />
+    <ignored path=".tmp.drivedownload/8245663.driveupload" />
+    <ignored path=".tmp.drivedownload/8268453.driveupload" />
+    <ignored path=".tmp.drivedownload/8271374.driveupload" />
+    <ignored path=".tmp.drivedownload/8277680.driveupload" />
+    <ignored path=".tmp.drivedownload/8280039.driveupload" />
+    <ignored path=".tmp.drivedownload/8288207.driveupload" />
+    <ignored path=".tmp.drivedownload/8307658.driveupload" />
+    <ignored path=".tmp.drivedownload/8311939.driveupload" />
+    <ignored path=".tmp.drivedownload/8323686.driveupload" />
+    <ignored path=".tmp.drivedownload/8342015.driveupload" />
+    <ignored path=".tmp.drivedownload/8355774.driveupload" />
+    <ignored path=".tmp.drivedownload/8360445.driveupload" />
+    <ignored path=".tmp.drivedownload/8377279.driveupload" />
+    <ignored path=".tmp.drivedownload/8388559.driveupload" />
+    <ignored path=".tmp.drivedownload/8413476.driveupload" />
+    <ignored path=".tmp.drivedownload/8419552.driveupload" />
+    <ignored path=".tmp.drivedownload/8431342.driveupload" />
+    <ignored path=".tmp.drivedownload/8434590.driveupload" />
+    <ignored path=".tmp.drivedownload/8454587.driveupload" />
+    <ignored path=".tmp.drivedownload/8454842.driveupload" />
+    <ignored path=".tmp.drivedownload/8454954.driveupload" />
+    <ignored path=".tmp.drivedownload/8459496.driveupload" />
+    <ignored path=".tmp.drivedownload/8468296.driveupload" />
+    <ignored path=".tmp.drivedownload/8472205.driveupload" />
+    <ignored path=".tmp.drivedownload/8489861.driveupload" />
+    <ignored path=".tmp.drivedownload/8493308.driveupload" />
+    <ignored path=".tmp.drivedownload/8505098.driveupload" />
+    <ignored path=".tmp.drivedownload/8510432.driveupload" />
+    <ignored path=".tmp.drivedownload/8511990.driveupload" />
+    <ignored path=".tmp.drivedownload/8537706.driveupload" />
+    <ignored path=".tmp.drivedownload/8542030.driveupload" />
+    <ignored path=".tmp.drivedownload/8545741.driveupload" />
+    <ignored path=".tmp.drivedownload/8552470.driveupload" />
+    <ignored path=".tmp.drivedownload/8563244.driveupload" />
+    <ignored path=".tmp.drivedownload/8578699.driveupload" />
+    <ignored path=".tmp.drivedownload/8587814.driveupload" />
+    <ignored path=".tmp.drivedownload/8593300.driveupload" />
+    <ignored path=".tmp.drivedownload/8602131.driveupload" />
+    <ignored path=".tmp.drivedownload/8608634.driveupload" />
+    <ignored path=".tmp.drivedownload/8627637.driveupload" />
+    <ignored path=".tmp.drivedownload/8630038.driveupload" />
+    <ignored path=".tmp.drivedownload/8630388.driveupload" />
+    <ignored path=".tmp.drivedownload/8643322.driveupload" />
+    <ignored path=".tmp.drivedownload/8659332.driveupload" />
+    <ignored path=".tmp.drivedownload/8691910.driveupload" />
+    <ignored path=".tmp.drivedownload/8695307.driveupload" />
+    <ignored path=".tmp.drivedownload/8740500.driveupload" />
+    <ignored path=".tmp.drivedownload/8748699.driveupload" />
+    <ignored path=".tmp.drivedownload/8757143.driveupload" />
+    <ignored path=".tmp.drivedownload/8760191.driveupload" />
+    <ignored path=".tmp.drivedownload/8761399.driveupload" />
+    <ignored path=".tmp.drivedownload/8764174.driveupload" />
+    <ignored path=".tmp.drivedownload/8777507.driveupload" />
+    <ignored path=".tmp.drivedownload/8780208.driveupload" />
+    <ignored path=".tmp.drivedownload/8780365.driveupload" />
+    <ignored path=".tmp.drivedownload/8812105.driveupload" />
+    <ignored path=".tmp.drivedownload/8815165.driveupload" />
+    <ignored path=".tmp.drivedownload/8838849.driveupload" />
+    <ignored path=".tmp.drivedownload/8855225.driveupload" />
+    <ignored path=".tmp.drivedownload/8891516.driveupload" />
+    <ignored path=".tmp.drivedownload/8903079.driveupload" />
+    <ignored path=".tmp.drivedownload/8904005.driveupload" />
+    <ignored path=".tmp.drivedownload/8905482.driveupload" />
+    <ignored path=".tmp.drivedownload/8908503.driveupload" />
+    <ignored path=".tmp.drivedownload/8922368.driveupload" />
+    <ignored path=".tmp.drivedownload/8936195.driveupload" />
+    <ignored path=".tmp.drivedownload/8976790.driveupload" />
+    <ignored path=".tmp.drivedownload/8978014.driveupload" />
+    <ignored path=".tmp.drivedownload/8995367.driveupload" />
+    <ignored path=".tmp.drivedownload/9023820.driveupload" />
+    <ignored path=".tmp.drivedownload/9036078.driveupload" />
+    <ignored path=".tmp.drivedownload/9036723.driveupload" />
+    <ignored path=".tmp.drivedownload/9057125.driveupload" />
+    <ignored path=".tmp.drivedownload/9090342.driveupload" />
+    <ignored path=".tmp.drivedownload/9091323.driveupload" />
+    <ignored path=".tmp.drivedownload/9092246.driveupload" />
+    <ignored path=".tmp.drivedownload/9098645.driveupload" />
+    <ignored path=".tmp.drivedownload/9108163.driveupload" />
+    <ignored path=".tmp.drivedownload/9125160.driveupload" />
+    <ignored path=".tmp.drivedownload/9125798.driveupload" />
+    <ignored path=".tmp.drivedownload/9147182.driveupload" />
+    <ignored path=".tmp.drivedownload/9150321.driveupload" />
+    <ignored path=".tmp.drivedownload/9151363.driveupload" />
+    <ignored path=".tmp.drivedownload/9153204.driveupload" />
+    <ignored path=".tmp.drivedownload/9159606.driveupload" />
+    <ignored path=".tmp.drivedownload/9162476.driveupload" />
+    <ignored path=".tmp.drivedownload/9175719.driveupload" />
+    <ignored path=".tmp.drivedownload/9176954.driveupload" />
+    <ignored path=".tmp.drivedownload/9179070.driveupload" />
+    <ignored path=".tmp.drivedownload/9183771.driveupload" />
+    <ignored path=".tmp.drivedownload/9184244.driveupload" />
+    <ignored path=".tmp.drivedownload/9188528.driveupload" />
+    <ignored path=".tmp.drivedownload/9193070.driveupload" />
+    <ignored path=".tmp.drivedownload/9202886.driveupload" />
+    <ignored path=".tmp.drivedownload/9211601.driveupload" />
+    <ignored path=".tmp.drivedownload/9230985.driveupload" />
+    <ignored path=".tmp.drivedownload/9253492.driveupload" />
+    <ignored path=".tmp.drivedownload/9277453.driveupload" />
+    <ignored path=".tmp.drivedownload/9282000.driveupload" />
+    <ignored path=".tmp.drivedownload/9284836.driveupload" />
+    <ignored path=".tmp.drivedownload/9290129.driveupload" />
+    <ignored path=".tmp.drivedownload/9292644.driveupload" />
+    <ignored path=".tmp.drivedownload/9326395.driveupload" />
+    <ignored path=".tmp.drivedownload/9329536.driveupload" />
+    <ignored path=".tmp.drivedownload/9338885.driveupload" />
+    <ignored path=".tmp.drivedownload/9339627.driveupload" />
+    <ignored path=".tmp.drivedownload/9339807.driveupload" />
+    <ignored path=".tmp.drivedownload/9365958.driveupload" />
+    <ignored path=".tmp.drivedownload/9369312.driveupload" />
+    <ignored path=".tmp.drivedownload/9388422.driveupload" />
+    <ignored path=".tmp.drivedownload/9429520.driveupload" />
+    <ignored path=".tmp.drivedownload/9433039.driveupload" />
+    <ignored path=".tmp.drivedownload/9440626.driveupload" />
+    <ignored path=".tmp.drivedownload/9468196.driveupload" />
+    <ignored path=".tmp.drivedownload/9468802.driveupload" />
+    <ignored path=".tmp.drivedownload/9478257.driveupload" />
+    <ignored path=".tmp.drivedownload/9482297.driveupload" />
+    <ignored path=".tmp.drivedownload/9482419.driveupload" />
+    <ignored path=".tmp.drivedownload/9485585.driveupload" />
+    <ignored path=".tmp.drivedownload/9487681.driveupload" />
+    <ignored path=".tmp.drivedownload/9510260.driveupload" />
+    <ignored path=".tmp.drivedownload/9513179.driveupload" />
+    <ignored path=".tmp.drivedownload/9520018.driveupload" />
+    <ignored path=".tmp.drivedownload/9535508.driveupload" />
+    <ignored path=".tmp.drivedownload/9535822.driveupload" />
+    <ignored path=".tmp.drivedownload/9549304.driveupload" />
+    <ignored path=".tmp.drivedownload/9553112.driveupload" />
+    <ignored path=".tmp.drivedownload/9586117.driveupload" />
+    <ignored path=".tmp.drivedownload/9598985.driveupload" />
+    <ignored path=".tmp.drivedownload/9601920.driveupload" />
+    <ignored path=".tmp.drivedownload/9613993.driveupload" />
+    <ignored path=".tmp.drivedownload/9627961.driveupload" />
+    <ignored path=".tmp.drivedownload/9647730.driveupload" />
+    <ignored path=".tmp.drivedownload/9658864.driveupload" />
+    <ignored path=".tmp.drivedownload/9675447.driveupload" />
+    <ignored path=".tmp.drivedownload/9687542.driveupload" />
+    <ignored path=".tmp.drivedownload/9687593.driveupload" />
+    <ignored path=".tmp.drivedownload/9694488.driveupload" />
+    <ignored path=".tmp.drivedownload/9704068.driveupload" />
+    <ignored path=".tmp.drivedownload/9705475.driveupload" />
+    <ignored path=".tmp.drivedownload/9706986.driveupload" />
+    <ignored path=".tmp.drivedownload/9739765.driveupload" />
+    <ignored path=".tmp.drivedownload/9743339.driveupload" />
+    <ignored path=".tmp.drivedownload/9753265.driveupload" />
+    <ignored path=".tmp.drivedownload/9762602.driveupload" />
+    <ignored path=".tmp.drivedownload/9764067.driveupload" />
+    <ignored path=".tmp.drivedownload/9764523.driveupload" />
+    <ignored path=".tmp.drivedownload/9799383.driveupload" />
+    <ignored path=".tmp.drivedownload/9804287.driveupload" />
+    <ignored path=".tmp.drivedownload/9815370.driveupload" />
+    <ignored path=".tmp.drivedownload/9816537.driveupload" />
+    <ignored path=".tmp.drivedownload/9816675.driveupload" />
+    <ignored path=".tmp.drivedownload/9826755.driveupload" />
+    <ignored path=".tmp.drivedownload/9839891.driveupload" />
+    <ignored path=".tmp.drivedownload/9847678.driveupload" />
+    <ignored path=".tmp.drivedownload/9851477.driveupload" />
+    <ignored path=".tmp.drivedownload/9866165.driveupload" />
+    <ignored path=".tmp.drivedownload/9896313.driveupload" />
+    <ignored path=".tmp.drivedownload/9896641.driveupload" />
+    <ignored path=".tmp.drivedownload/9915912.driveupload" />
+    <ignored path=".tmp.drivedownload/9916741.driveupload" />
+    <ignored path=".tmp.drivedownload/9917225.driveupload" />
+    <ignored path=".tmp.drivedownload/9937719.driveupload" />
+    <ignored path=".tmp.drivedownload/9945784.driveupload" />
+    <ignored path=".tmp.drivedownload/9946251.driveupload" />
+    <ignored path=".tmp.drivedownload/9968800.driveupload" />
+    <ignored path=".tmp.drivedownload/9975172.driveupload" />
+    <ignored path=".tmp.drivedownload/9977530.driveupload" />
+    <ignored path=".tmp.drivedownload/9985259.driveupload" />
+    <ignored path=".tmp.drivedownload/9999310.driveupload" />
+    <ignored path="_posts/SyncToy_ba032d23-ba19-4104-944d-d3955a44b071.dat" />
+    <ignored mask="*.dat" />
+    <ignored path=".tmp.drivedownload/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-2068246045">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="5" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="gitignore" value="20" />
+          <entry key="html" value="71" />
+          <entry key="txt" value="7" />
+          <entry key="yml" value="55" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="71" />
+          <entry key="PLAIN_TEXT" value="27" />
+          <entry key="YAML" value="55" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="1" />
+          <entry key="gitignore" value="2" />
+          <entry key="html" value="17" />
+          <entry key="js" value="1" />
+          <entry key="md" value="2" />
+          <entry key="yml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="1" />
+          <entry key="HTML" value="17" />
+          <entry key="JavaScript" value="1" />
+          <entry key="Markdown" value="2" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="YAML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="95" column="29" selection-start-line="95" selection-start-column="29" selection-end-line="95" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/mathjax_support.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="19" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_includes/head.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="549">
+              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-62">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Boile</find>
+      <find>to be w</find>
+      <find>description</find>
+      <find>code</find>
+      <find>icon_wechat</find>
+      <find>&lt;img</find>
+      <find>Post Content</find>
+      <find>../</find>
+      <find>mathjax</find>
+      <find>WARNing</find>
+      <find>include</find>
+      <find>layout</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>/</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>F:\Workplace\Github Projects\william_blog\_includes</dir>
+      <dir>F:\Workplace\Github Projects\william_blog\_layouts</dir>
+      <dir>F:\Workplace\Github Projects\william_blog\_posts</dir>
+      <dir>F:\Workplace\Github Projects\william_blog</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/_includes/mathjax_support.html" />
+        <option value="$PROJECT_DIR$/_layouts/post.html" />
+        <option value="$PROJECT_DIR$/_includes/head.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="william_blog" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="william_blog" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="_site" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="william_blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="william_blog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="william_blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="william_blog" type="462c0819:PsiDirectoryNode" />
+              <item name="_includes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="william_blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="william_blog" type="462c0819:PsiDirectoryNode" />
+              <item name="_layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion.Network" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Workplace\Github Projects\william_blog\_includes" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\William-PC\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16f3515c-4c14-4975-815a-adb75fd9d341" name="Default Changelist" comment="" />
+      <created>1537264706129</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537264706129</updated>
+    </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1537264856849</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1537264856849</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update">
+      <created>1537267279385</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1537267279385</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update">
+      <created>1537267285819</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1537267285819</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update">
+      <created>1537333633448</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1537333633448</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update">
+      <created>1537333686119</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1537333686119</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update">
+      <created>1537333838694</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1537333838694</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update">
+      <created>1537334092404</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1537334092404</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update">
+      <created>1537334169027</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1537334169027</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update">
+      <created>1537334264804</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1537334264804</updated>
+    </task>
+    <task id="LOCAL-00010" summary="update">
+      <created>1537334353626</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1537334353626</updated>
+    </task>
+    <task id="LOCAL-00011" summary="update">
+      <created>1537334401262</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1537334401263</updated>
+    </task>
+    <task id="LOCAL-00012" summary="update">
+      <created>1537334470575</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1537334470575</updated>
+    </task>
+    <task id="LOCAL-00013" summary="update">
+      <created>1537334611640</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1537334611640</updated>
+    </task>
+    <task id="LOCAL-00014" summary="update">
+      <created>1537334686974</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1537334686974</updated>
+    </task>
+    <task id="LOCAL-00015" summary="update">
+      <created>1537334759032</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1537334759032</updated>
+    </task>
+    <task id="LOCAL-00016" summary="update">
+      <created>1537334826857</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1537334826857</updated>
+    </task>
+    <task id="LOCAL-00017" summary="update">
+      <created>1537334887241</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1537334887241</updated>
+    </task>
+    <task id="LOCAL-00018" summary="update">
+      <created>1537335046389</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1537335046389</updated>
+    </task>
+    <task id="LOCAL-00019" summary="update">
+      <created>1537335107299</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1537335107299</updated>
+    </task>
+    <task id="LOCAL-00020" summary="update">
+      <created>1537335215691</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1537335215692</updated>
+    </task>
+    <task id="LOCAL-00021" summary="update">
+      <created>1537335408364</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1537335408364</updated>
+    </task>
+    <task id="LOCAL-00022" summary="update">
+      <created>1537335422939</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1537335422939</updated>
+    </task>
+    <task id="LOCAL-00023" summary="update">
+      <created>1537335492182</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1537335492182</updated>
+    </task>
+    <task id="LOCAL-00024" summary="update">
+      <created>1537335691461</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1537335691461</updated>
+    </task>
+    <task id="LOCAL-00025" summary="update">
+      <created>1537350650053</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1537350650053</updated>
+    </task>
+    <task id="LOCAL-00026" summary="update">
+      <created>1538284496713</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1538284496713</updated>
+    </task>
+    <task id="LOCAL-00027" summary="update">
+      <created>1538284642803</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1538284642803</updated>
+    </task>
+    <task id="LOCAL-00028" summary="update">
+      <created>1538285011174</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1538285011174</updated>
+    </task>
+    <task id="LOCAL-00029" summary="update">
+      <created>1538285177702</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1538285177702</updated>
+    </task>
+    <task id="LOCAL-00030" summary="update">
+      <created>1538285491546</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1538285491546</updated>
+    </task>
+    <task id="LOCAL-00031" summary="update">
+      <created>1538285726581</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1538285726581</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15031983" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3298647" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-09-17-Attention-based-LSTM-for-Aspect-level-Sentiment-Classification.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/hux-blog.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-507" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-288" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/nav.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/syntax.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1069" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tags.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-220">
+          <caret line="8" column="36" lean-forward="true" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/archive.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="95" column="29" selection-start-line="95" selection-start-column="29" selection-end-line="95" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../william_blog-backup/_includes/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-62">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/mathjax_support.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

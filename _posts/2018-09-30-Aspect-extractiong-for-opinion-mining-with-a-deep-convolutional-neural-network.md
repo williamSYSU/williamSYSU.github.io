@@ -5,6 +5,7 @@ subtitle:       ""
 data:           2018-09-30
 author:         "William"
 header-img:     "img/post-bg-sentiment-analysis.jpg"
+catalog:        true
 tags:
     - NLP
     - Paper Notes

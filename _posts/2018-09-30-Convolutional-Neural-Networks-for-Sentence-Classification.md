@@ -15,17 +15,7 @@ tags:
 Catalog
 -------
 
-- [Catalog](#catalog)
-- [Before Reading](#before-reading)
-- [Paper Core](#paper-core)
-- [Model](#model)
-  - [模型具体流程](#模型具体流程)
-  - [卷积操作的优势](#卷积操作的优势)
-  - [卷积操作的缺点](#卷积操作的缺点)
-- [Something can learn](#something-can-learn)
-- [Reference](#reference)
-
-
+{:toc}
 
 Before Reading
 --------------

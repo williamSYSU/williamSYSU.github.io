@@ -15,7 +15,7 @@ tags:
 
 ## Catalog
 
-==hahaha==
+{:TOC}
 
 ## Before Reading
 

@@ -53,10 +53,6 @@ markdown: kramdown
 kramdown:
   input: GFM                            # use Github Flavored Markdown !important
   syntax_highlighter: rouge
-  extensions:
-    - autolink
-    - footnotes
-    - smart
 
 #  syntax_highlighter_opts:
 #    css_class: 'highlight'

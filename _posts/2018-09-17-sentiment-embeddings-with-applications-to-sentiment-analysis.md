@@ -11,8 +11,6 @@ tags:
     - Sentiment Analysis
 ---
 
-
-
 ## Catalog
 
 1. [Before Reading](#before-reading)

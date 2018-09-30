@@ -11,8 +11,6 @@ tags:
     - Sentiment Analysis
 ---
 
-
-
 ## Catalog
 
 1. [Before Reading](#before-reading)
@@ -23,6 +21,8 @@ tags:
    3. [Attention-based LSTM with Aspect Embedding (ATAE-LSTM)](#attention-based-lstm-with-aspect-embedding-atae-lstm)
 4. [Something can learn](#something-can-learn)
 5. [Reference](#reference)
+
+
 
 ## Before Reading
 

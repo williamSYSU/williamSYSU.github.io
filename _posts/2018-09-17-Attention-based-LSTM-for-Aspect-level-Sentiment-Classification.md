@@ -5,16 +5,13 @@ subtitle:       "如何把侧面词(Aspect)与Attention机制结合，拓展基�
 data:           2018-09-17
 author:         "William"
 header-img:     "img/post-bg-sentiment-analysis.jpg"
+catalog:        true
 tags:
     - NLP
     - Paper Notes
     - Sentiment Analysis
 ---
 
-## Catalog
-
-* TOC
-{:toc}
 
 ## Before Reading
 

@@ -3,17 +3,14 @@ author: William
 data: '2018-09-19'
 header-img: 'img/post-bg-tech.jpg'
 layout: post
-subtitle: 简化NLP数据预处理工作
+subtitle: "简化NLP数据预处理工作"
+catalog:        true
 tags:
 - NLP
 - How to
 title: Torchtext 使用
 ---
 
-## Catalog
-
-* TOC
-{:toc}
 
 简介
 ----

@@ -5,6 +5,7 @@ subtitle:       "CNN处理序列数据"
 data:           2018-09-30
 author:         "William"
 header-img:     "img/post-bg-sentiment-analysis.jpg"
+catalog:        true
 tags:
     - NLP
     - Paper Notes
@@ -12,11 +13,6 @@ tags:
     - CNN
 ---
 
-Catalog
--------
-
-* TOC
-{:toc}
 
 Before Reading
 --------------

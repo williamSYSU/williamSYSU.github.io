@@ -5,19 +5,11 @@ subtitle:       "将zsh替换原生shell"
 data:           2018-09-18
 author:         "William"
 header-img:     "img/post-bg-install-zsh.jpg"
+catalog:        true
 tags:
     - Softwares
     - How to
 ---
-
-## Catalog
-
-* TOC
-{:toc}
-
-
-
-在Linux中默认的bash没有颜色区分，界面比较朴素，可以更换为zsh使得shell界面更美观。
 
 ## 1. 安装zsh包
 

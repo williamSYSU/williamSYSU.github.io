@@ -5,16 +5,13 @@ subtitle:       "如何把情感信息编码到词向量中，并提升情感分
 data:           2018-09-17
 author:         "William"
 header-img:     "img/post-bg-sentiment-analysis.jpg"
+catalog:        true
 tags:
     - NLP
     - Paper Notes
     - Sentiment Analysis
 ---
 
-## Catalog
-
-* TOC
-{:toc}
 
 ## Before Reading
 

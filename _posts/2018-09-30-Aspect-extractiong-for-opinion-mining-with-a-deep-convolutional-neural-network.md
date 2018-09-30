@@ -14,10 +14,6 @@ tags:
     - Aspect-level
 ---
 
-## Catalog
-
-* TOC
-{:toc}
 
 ## Before Reading
 

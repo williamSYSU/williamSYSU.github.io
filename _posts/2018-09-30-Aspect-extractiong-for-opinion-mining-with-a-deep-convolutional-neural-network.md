@@ -16,11 +16,9 @@ tags:
 ## Catalog
 
 * TOC
-
 {:toc}
 
 ## Before Reading
-
 
 
 

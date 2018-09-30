@@ -14,6 +14,8 @@ tags:
 
 {:toc}
 
+
+
 在Linux中默认的bash没有颜色区分，界面比较朴素，可以更换为zsh使得shell界面更美观。
 
 ## 1. 安装zsh包

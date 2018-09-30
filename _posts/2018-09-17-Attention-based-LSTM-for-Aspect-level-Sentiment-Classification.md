@@ -15,6 +15,8 @@ tags:
 
 {:toc}
 
+
+
 ## Before Reading
 
 1. Attention机制如何加入LSTM？

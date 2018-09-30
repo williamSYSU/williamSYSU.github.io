@@ -1,4 +1,6 @@
+.git
 _site
+.idea
 node_modules
 npm-debug.log
 .DS_Store

@@ -10,6 +10,7 @@ tags:
     - NLP
     - Paper Notes
     - Sentiment Analysis
+typora-root-url: ..
 ---
 
 

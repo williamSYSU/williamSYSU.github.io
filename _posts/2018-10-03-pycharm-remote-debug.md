@@ -2,7 +2,7 @@
 layout:         post
 title:          "使用Pycharm的远程调试"
 subtitle:       "实时同步本机与服务器的代码，解放本机资源，高效利用服务器"
-data:           2018-09-18
+data:           2018-10-03
 author:         "William"
 header-img:     "img/post-bg-universe.jpg"
 catalog:        true

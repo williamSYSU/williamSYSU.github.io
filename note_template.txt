@@ -1,0 +1,34 @@
+---
+layout:         post
+title:          ""
+subtitle:       ""
+data:           2018-
+author:         "William"
+header-img:     "img/post-bg-sentiment-analysis.jpg"
+catalog:        true
+tags:
+    - NLP
+    - Paper Notes
+    - Softwares
+    - How to
+typora-root-url: ..
+---
+
+## Before Reading
+
+
+
+## Paper Core
+
+
+
+## Model
+
+
+
+## Something can learn
+
+
+
+## Reference
+

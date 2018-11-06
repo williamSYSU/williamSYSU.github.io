@@ -2,7 +2,7 @@
 layout:         post
 title:          "Note - An Unsupervised Neural Attention Model for Aspect Extraction"
 subtitle:       "用神经网络无监督学习的方法提取aspect信息"
-data:           2018-10-24
+date:           2018-10-24
 author:         "William"
 header-img:     "img/post-bg-tech.jpg"
 catalog:        true

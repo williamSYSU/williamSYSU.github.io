@@ -2,7 +2,7 @@
 layout:         post
 title:          "Note - Attention is All You Need"
 subtitle:       "Attention的魅力"
-data:           2018-10-09
+date:           2018-10-09
 author:         "William"
 header-img:     "img/post-bg-allyou.jpg"
 catalog:        true

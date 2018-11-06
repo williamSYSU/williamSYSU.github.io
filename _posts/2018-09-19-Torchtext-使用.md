@@ -1,6 +1,6 @@
 ---
 author: William
-data: '2018-09-19'
+date: '2018-09-19'
 header-img: 'img/post-bg-tech.jpg'
 layout: post
 subtitle: "简化NLP数据预处理工作"

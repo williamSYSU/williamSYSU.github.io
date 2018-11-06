@@ -2,7 +2,7 @@
 layout:         post
 title:          "Note - Convolutional Neural Networks for Sentence Classification"
 subtitle:       "CNN处理序列数据"
-data:           2018-09-30
+date:           2018-09-30
 author:         "William"
 header-img:     "img/post-bg-sentiment-analysis.jpg"
 catalog:        true

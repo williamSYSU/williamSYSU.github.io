@@ -3,7 +3,7 @@ layout:         post
 title:          "Note - Improving Review Representations with User Attention
 and Product Attention for Sentiment Classification"
 subtitle:       "分别考虑用户信息和商品信息的文档级情感分析"
-data:           2018-10-08
+date:           2018-10-08
 author:         "William"
 header-img:     "img/post-bg-sentiment-analysis.jpg"
 catalog:        true

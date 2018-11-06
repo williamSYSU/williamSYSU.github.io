@@ -2,7 +2,7 @@
 layout:         post
 title:          "Note - Aspect extraction for opinion mining with a deep convolutional neural network"
 subtitle:       ""
-data:           2018-09-30
+date:           2018-09-30
 author:         "William"
 header-img:     "img/post-bg-sentiment-analysis.jpg"
 catalog:        true

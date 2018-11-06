@@ -2,7 +2,7 @@
 layout:         post
 title:          "CentOS 安装 zsh"
 subtitle:       "将zsh替换原生shell"
-data:           2018-09-18
+date:           2018-09-18
 author:         "William"
 header-img:     "img/post-bg-install-zsh.jpg"
 catalog:        true

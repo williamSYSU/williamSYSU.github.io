@@ -2,7 +2,7 @@
 layout:         post
 title:          "Note - Mining Opinion Features in Customer Reviews"
 subtitle:       "从顾客评论中提取aspect（传统方法）"
-data:           2018-10-26
+date:           2018-10-26
 author:         "William"
 header-img:     "img/post-bg-bird.jpg"
 catalog:        true
@@ -111,6 +111,6 @@ typora-root-url: ..
 
 ## Reference
 
-[1]*Hu, M., & Liu, B. (2004). Mining opinion features in customer reviews. American Association for Artificial Intelligence, (July 2004), 755–760. https://doi.org/10.1145/1014052.1014073*
+*Hu, M., & Liu, B. (2004). Mining opinion features in customer reviews. American Association for Artificial Intelligence, (July 2004), 755–760. https://doi.org/10.1145/1014052.1014073*
 
 [2]*Zhao, W., Guan, Z., Chen, L., He, X., Cai, D., Wang, B., & Wang, Q. (2018). Weakly-supervised Deep Embedding for Product Review Sentiment Analysis. IEEE Transactions on Knowledge and Data Engineering, 30(1), 185–197. https://doi.org/10.1109/TKDE.2017.2756658*

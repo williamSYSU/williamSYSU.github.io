@@ -2,7 +2,7 @@
 layout:         post
 title:          "Note - Attention-based LSTM for Aspect-level Sentiment Classification"
 subtitle:       "如何把侧面词(Aspect)与Attention机制结合，拓展基础LSTM？"
-data:           2018-09-17
+date:           2018-09-17
 author:         "William"
 header-img:     "img/post-bg-sentiment-analysis.jpg"
 catalog:        true
